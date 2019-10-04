@@ -1,0 +1,16 @@
+D:\DELETEABLE\DockerKubernetesExercise\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\bin\Debug\netcoreapp3.0\VSDocker.Model.deps.json
+D:\DELETEABLE\DockerKubernetesExercise\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\bin\Debug\netcoreapp3.0\VSDocker.Model.dll
+D:\DELETEABLE\DockerKubernetesExercise\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\bin\Debug\netcoreapp3.0\VSDocker.Model.pdb
+D:\DELETEABLE\DockerKubernetesExercise\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\obj\Debug\netcoreapp3.0\VSDocker.Model.csprojAssemblyReference.cache
+D:\DELETEABLE\DockerKubernetesExercise\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\obj\Debug\netcoreapp3.0\VSDocker.Model.AssemblyInfoInputs.cache
+D:\DELETEABLE\DockerKubernetesExercise\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\obj\Debug\netcoreapp3.0\VSDocker.Model.AssemblyInfo.cs
+D:\DELETEABLE\DockerKubernetesExercise\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\obj\Debug\netcoreapp3.0\VSDocker.Model.dll
+D:\DELETEABLE\DockerKubernetesExercise\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\obj\Debug\netcoreapp3.0\VSDocker.Model.pdb
+C:\Users\JULIUS\Desktop\sample\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\bin\Debug\netcoreapp3.0\VSDocker.Model.deps.json
+C:\Users\JULIUS\Desktop\sample\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\bin\Debug\netcoreapp3.0\VSDocker.Model.dll
+C:\Users\JULIUS\Desktop\sample\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\bin\Debug\netcoreapp3.0\VSDocker.Model.pdb
+C:\Users\JULIUS\Desktop\sample\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\obj\Debug\netcoreapp3.0\VSDocker.Model.csprojAssemblyReference.cache
+C:\Users\JULIUS\Desktop\sample\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\obj\Debug\netcoreapp3.0\VSDocker.Model.AssemblyInfoInputs.cache
+C:\Users\JULIUS\Desktop\sample\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\obj\Debug\netcoreapp3.0\VSDocker.Model.AssemblyInfo.cs
+C:\Users\JULIUS\Desktop\sample\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\obj\Debug\netcoreapp3.0\VSDocker.Model.dll
+C:\Users\JULIUS\Desktop\sample\DotNetApi\VSDocker\VSDockerSolution\VSDocker.Model\obj\Debug\netcoreapp3.0\VSDocker.Model.pdb
